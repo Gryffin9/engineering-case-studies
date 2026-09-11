@@ -1,0 +1,4 @@
+stage,findings,interpretation
+initial,2486,raw detector findings
+calibrated,40,genuine blocking defects after detector calibration
+corrected,0,blocking findings after content correction

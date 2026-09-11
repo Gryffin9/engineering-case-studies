@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="132" viewBox="0 0 900 132" role="img" aria-labelledby="title desc">
+<title id="title">02 · agentic reasoning</title>
+<desc id="desc">216 → 1,896 passing verification tests. independent evaluation · deterministic gates · persisted learning loop. snapshot 2026-09-10.</desc>
+<g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+<rect x="0" y="0" width="900" height="132" rx="18" fill="#0B1020"/>
+<path d="M 30 0 V 132 M 60 0 V 132 M 90 0 V 132 M 120 0 V 132 M 150 0 V 132 M 180 0 V 132 M 210 0 V 132 M 240 0 V 132 M 270 0 V 132 M 300 0 V 132 M 330 0 V 132 M 360 0 V 132 M 390 0 V 132 M 420 0 V 132 M 450 0 V 132 M 480 0 V 132 M 510 0 V 132 M 540 0 V 132 M 570 0 V 132 M 600 0 V 132 M 630 0 V 132 M 660 0 V 132 M 690 0 V 132 M 720 0 V 132 M 750 0 V 132 M 780 0 V 132 M 810 0 V 132 M 840 0 V 132 M 870 0 V 132 M 0 30 H 900 M 0 60 H 900 M 0 90 H 900 M 0 120 H 900" stroke="#182338" stroke-width="1" fill="none" stroke-linecap="butt" stroke-linejoin="round" opacity="0.35"/>
+<rect x="0" y="22" width="5" height="88" rx="2" fill="#5EEBC4"/>
+<text x="36" y="40" fill="#94A3B8" font-size="11" font-weight="700" text-anchor="start" letter-spacing="1.6">02 · AGENTIC REASONING</text>
+<rect x="720.78" y="24" width="143.22" height="22" rx="11" fill="#0E1527" stroke="#243149" stroke-width="1"/>
+<circle cx="731.78" cy="35" r="3" fill="#5EEBC4"/>
+<text x="739.78" y="39" fill="#94A3B8" font-size="11" font-weight="600" text-anchor="start" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">snapshot 2026-09-10</text>
+<text x="36" y="80" fill="#5EEBC4" font-size="24" font-weight="700" text-anchor="start">216 → 1,896 passing verification tests</text>
+<text x="36" y="106" fill="#94A3B8" font-size="13" font-weight="400" text-anchor="start">independent evaluation · deterministic gates · persisted learning loop</text>
+<text x="864" y="108" fill="#5B6B84" font-size="11.5" font-weight="400" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">open case study →</text>
+</g>
+</svg>

@@ -1,0 +1,15 @@
+# Copy to portfolio.local.toml (ignored). Do not commit your local configuration.
+# Without configuration, refresh regenerates charts from committed public data.
+# Use a later, actual evidence date; do not refresh merely because time passed.
+snapshot_date = "2026-12-01"
+
+# [production]
+# repo = ""  # Set locally to your source checkout.
+# ref = "origin/master"
+# definition = "ts-tsx-test-spec-files-v1"
+
+# [agentic]
+# repo = ""  # Set locally to your source checkout.
+# summary = "portfolio-summary.local.json"
+# definition = "recorded-passing-tests-v1"
+# scope_reviewed = true

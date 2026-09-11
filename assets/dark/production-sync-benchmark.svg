@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" role="img" aria-labelledby="title desc">
+<title id="title">Recorded local unchanged-content startup benchmark</title>
+<desc id="desc">Before 5317 milliseconds, after 155 milliseconds; 34.3 times faster, 97.1 percent reduction, derived from the recorded values. Recorded local benchmark, not production latency.</desc>
+<g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+<rect x="0" y="0" width="900" height="330" rx="18" fill="#0B1020"/>
+<text x="36" y="44" fill="#F8FAFC" font-size="22" font-weight="650" text-anchor="start">Recorded local unchanged-content startup benchmark</text>
+<text x="36" y="68" fill="#94A3B8" font-size="13" font-weight="400" text-anchor="start">commit-recorded measurement · raw benchmark log unavailable · not production latency</text>
+<rect x="714.4" y="33" width="149.6" height="22" rx="11" fill="#0E1527" stroke="#243149" stroke-width="1"/>
+<circle cx="725.4" cy="44" r="3" fill="#6DD5FA"/>
+<text x="733.4" y="48" fill="#94A3B8" font-size="11" font-weight="600" text-anchor="start" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">completed case study</text>
+<text x="36" y="128" fill="#5EEBC4" font-size="40" font-weight="700" text-anchor="start">5.317 s → 0.155 s</text>
+<text x="36" y="152" fill="#94A3B8" font-size="13" font-weight="400" text-anchor="start">34.3× faster · 97.1% reduction (derived)</text>
+<text x="36" y="206" fill="#94A3B8" font-size="11" font-weight="700" text-anchor="start" letter-spacing="1.6">BEFORE</text>
+<rect x="130" y="186" width="600" height="28" rx="4" fill="#0E1527"/>
+<rect x="130" y="186" width="600" height="28" rx="4" fill="#7C83FF"/>
+<text x="744" y="205" fill="#F8FAFC" font-size="13" font-weight="600" text-anchor="start" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">5,317 ms</text>
+<text x="36" y="252" fill="#94A3B8" font-size="11" font-weight="700" text-anchor="start" letter-spacing="1.6">AFTER</text>
+<rect x="130" y="232" width="600" height="28" rx="4" fill="#0E1527"/>
+<rect x="130" y="232" width="17.49" height="28" rx="4" fill="#5EEBC4"/>
+<text x="744" y="251" fill="#F8FAFC" font-size="13" font-weight="600" text-anchor="start" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">155 ms</text>
+<rect x="36" y="282" width="184.08" height="24" rx="12" fill="#111A2E" stroke="#243149" stroke-width="1"/>
+<text x="48" y="298" fill="#94A3B8" font-size="11.5" font-weight="500" text-anchor="start">fingerprint source state</text>
+<path d="M 224.08 294 L 240.08 294" stroke="#5B6B84" stroke-width="1.2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 233.94 297.36 L 240.08 294 L 233.94 290.64" stroke="#5B6B84" stroke-width="1.2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="246.08" y="282" width="244.11" height="24" rx="12" fill="#111A2E" stroke="#243149" stroke-width="1"/>
+<text x="258.08" y="298" fill="#94A3B8" font-size="11.5" font-weight="500" text-anchor="start">persist marker only after success</text>
+<path d="M 494.19 294 L 510.19 294" stroke="#5B6B84" stroke-width="1.2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 504.05 297.36 L 510.19 294 L 504.05 290.64" stroke="#5B6B84" stroke-width="1.2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="516.19" y="282" width="250.78" height="24" rx="12" fill="#111A2E" stroke="#243149" stroke-width="1"/>
+<text x="528.19" y="298" fill="#94A3B8" font-size="11.5" font-weight="500" text-anchor="start">skip redundant work when unchanged</text>
+</g>
+</svg>
