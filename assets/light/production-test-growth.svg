@@ -5,65 +5,65 @@
 <rect x="0" y="0" width="900" height="430" rx="18" fill="#F8FAFC"/>
 <text x="36" y="44" fill="#0B1020" font-size="22" font-weight="650" text-anchor="start">Automated test surface over time</text>
 <text x="36" y="68" fill="#475569" font-size="13" font-weight="400" text-anchor="start">TypeScript / TSX unit + browser test files · observed snapshots · stepped line holds the last observed value</text>
-<rect x="720.78" y="33" width="143.22" height="22" rx="11" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1"/>
-<circle cx="731.78" cy="44" r="3" fill="#0E9F7E"/>
-<text x="739.78" y="48" fill="#475569" font-size="11" font-weight="600" text-anchor="start" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">snapshot 2026-09-10</text>
-<text x="36" y="128" fill="#0E9F7E" font-size="40" font-weight="700" text-anchor="start">0 → 265</text>
+<rect x="696.24" y="33" width="167.76" height="22" rx="11" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1"/>
+<circle cx="707.24" cy="44" r="3" fill="#087A64"/>
+<text x="715.24" y="48" fill="#475569" font-size="11" font-weight="600" text-anchor="start" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">snapshot 2026-09-10</text>
+<text x="36" y="128" fill="#087A64" font-size="40" font-weight="700" text-anchor="start">0 → 265</text>
 <text x="36" y="152" fill="#475569" font-size="13" font-weight="400" text-anchor="start">Feb 2026 → Sep 2026 · 7 observations</text>
 <rect x="76" y="182" width="784" height="174" rx="6" fill="#F1F5F9"/>
 <path d="M 105 182 V 356 M 134 182 V 356 M 163 182 V 356 M 192 182 V 356 M 221 182 V 356 M 250 182 V 356 M 279 182 V 356 M 308 182 V 356 M 337 182 V 356 M 366 182 V 356 M 395 182 V 356 M 424 182 V 356 M 453 182 V 356 M 482 182 V 356 M 511 182 V 356 M 540 182 V 356 M 569 182 V 356 M 598 182 V 356 M 627 182 V 356 M 656 182 V 356 M 685 182 V 356 M 714 182 V 356 M 743 182 V 356 M 772 182 V 356 M 801 182 V 356 M 830 182 V 356 M 859 182 V 356 M 76 211 H 860 M 76 240 H 860 M 76 269 H 860 M 76 298 H 860 M 76 327 H 860" stroke="#E2E8F0" stroke-width="1" fill="none" stroke-linecap="butt" stroke-linejoin="round" opacity="0.5"/>
 <path d="M 76 356 L 860 356" stroke="#CBD5E1" stroke-width="1" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
-<text x="66" y="360" fill="#94A3B8" font-size="11" font-weight="400" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">0</text>
+<text x="66" y="360" fill="#59677B" font-size="11" font-weight="400" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">0</text>
 <path d="M 76 312.5 L 860 312.5" stroke="#CBD5E1" stroke-width="1" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
-<text x="66" y="316.5" fill="#94A3B8" font-size="11" font-weight="400" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">75</text>
+<text x="66" y="316.5" fill="#59677B" font-size="11" font-weight="400" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">75</text>
 <path d="M 76 269 L 860 269" stroke="#CBD5E1" stroke-width="1" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
-<text x="66" y="273" fill="#94A3B8" font-size="11" font-weight="400" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">150</text>
+<text x="66" y="273" fill="#59677B" font-size="11" font-weight="400" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">150</text>
 <path d="M 76 225.5 L 860 225.5" stroke="#CBD5E1" stroke-width="1" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
-<text x="66" y="229.5" fill="#94A3B8" font-size="11" font-weight="400" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">225</text>
+<text x="66" y="229.5" fill="#59677B" font-size="11" font-weight="400" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">225</text>
 <path d="M 76 182 L 860 182" stroke="#CBD5E1" stroke-width="1" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
-<text x="66" y="186" fill="#94A3B8" font-size="11" font-weight="400" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">300</text>
+<text x="66" y="186" fill="#59677B" font-size="11" font-weight="400" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">300</text>
 <path d="M 84 356 L 84 361" stroke="#CBD5E1" stroke-width="1" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="84" y="375" fill="#94A3B8" font-size="11" font-weight="400" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">Feb</text>
+<text x="84" y="375" fill="#59677B" font-size="11" font-weight="400" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">Feb</text>
 <path d="M 181.3 356 L 181.3 361" stroke="#CBD5E1" stroke-width="1" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="181.3" y="375" fill="#94A3B8" font-size="11" font-weight="400" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">Mar</text>
+<text x="181.3" y="375" fill="#59677B" font-size="11" font-weight="400" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">Mar</text>
 <path d="M 289.03 356 L 289.03 361" stroke="#CBD5E1" stroke-width="1" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="289.03" y="375" fill="#94A3B8" font-size="11" font-weight="400" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">Apr</text>
+<text x="289.03" y="375" fill="#59677B" font-size="11" font-weight="400" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">Apr</text>
 <path d="M 393.29 356 L 393.29 361" stroke="#CBD5E1" stroke-width="1" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="393.29" y="375" fill="#94A3B8" font-size="11" font-weight="400" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">May</text>
+<text x="393.29" y="375" fill="#59677B" font-size="11" font-weight="400" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">May</text>
 <path d="M 501.01 356 L 501.01 361" stroke="#CBD5E1" stroke-width="1" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="501.01" y="375" fill="#94A3B8" font-size="11" font-weight="400" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">Jun</text>
+<text x="501.01" y="375" fill="#59677B" font-size="11" font-weight="400" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">Jun</text>
 <path d="M 605.27 356 L 605.27 361" stroke="#CBD5E1" stroke-width="1" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="605.27" y="375" fill="#94A3B8" font-size="11" font-weight="400" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">Jul</text>
+<text x="605.27" y="375" fill="#59677B" font-size="11" font-weight="400" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">Jul</text>
 <path d="M 713 356 L 713 361" stroke="#CBD5E1" stroke-width="1" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="713" y="375" fill="#94A3B8" font-size="11" font-weight="400" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">Aug</text>
+<text x="713" y="375" fill="#59677B" font-size="11" font-weight="400" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">Aug</text>
 <path d="M 820.72 356 L 820.72 361" stroke="#CBD5E1" stroke-width="1" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="820.72" y="375" fill="#94A3B8" font-size="11" font-weight="400" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">Sep</text>
+<text x="820.72" y="375" fill="#59677B" font-size="11" font-weight="400" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">Sep</text>
 <path d="M 84 356 H 289.03 V 354.92 H 393.29 V 343.58 H 501.01 V 323.6 H 605.27 V 284.72 H 733.85 V 255.02 H 852 V 212.9 V 356 H 84 Z" stroke="#4F46E5" stroke-width="0" fill="#4F46E5" stroke-linecap="butt" stroke-linejoin="round" opacity="0.1"/>
 <path d="M 84 356 H 289.03 V 354.92 H 393.29 V 343.58 H 501.01 V 323.6 H 605.27 V 284.72 H 733.85 V 255.02 H 852 V 212.9" stroke="#4F46E5" stroke-width="2.2" fill="none" stroke-linecap="butt" stroke-linejoin="round"/>
-<circle cx="84" cy="356" r="5" fill="#FFFFFF" stroke="#0E9F7E" stroke-width="2"/>
-<circle cx="84" cy="356" r="2.2" fill="#0E9F7E"/>
+<circle cx="84" cy="356" r="5" fill="#FFFFFF" stroke="#087A64" stroke-width="2"/>
+<circle cx="84" cy="356" r="2.2" fill="#087A64"/>
 <text x="92" y="348" fill="#0B1020" font-size="11.5" font-weight="600" text-anchor="start" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">0</text>
-<circle cx="289.03" cy="354.92" r="5" fill="#FFFFFF" stroke="#0E9F7E" stroke-width="2"/>
-<circle cx="289.03" cy="354.92" r="2.2" fill="#0E9F7E"/>
+<circle cx="289.03" cy="354.92" r="5" fill="#FFFFFF" stroke="#087A64" stroke-width="2"/>
+<circle cx="289.03" cy="354.92" r="2.2" fill="#087A64"/>
 <text x="289.03" y="342.92" fill="#0B1020" font-size="11.5" font-weight="600" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">2</text>
-<circle cx="393.29" cy="343.58" r="5" fill="#FFFFFF" stroke="#0E9F7E" stroke-width="2"/>
-<circle cx="393.29" cy="343.58" r="2.2" fill="#0E9F7E"/>
+<circle cx="393.29" cy="343.58" r="5" fill="#FFFFFF" stroke="#087A64" stroke-width="2"/>
+<circle cx="393.29" cy="343.58" r="2.2" fill="#087A64"/>
 <text x="393.29" y="331.58" fill="#0B1020" font-size="11.5" font-weight="600" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">23</text>
-<circle cx="501.01" cy="323.6" r="5" fill="#FFFFFF" stroke="#0E9F7E" stroke-width="2"/>
-<circle cx="501.01" cy="323.6" r="2.2" fill="#0E9F7E"/>
+<circle cx="501.01" cy="323.6" r="5" fill="#FFFFFF" stroke="#087A64" stroke-width="2"/>
+<circle cx="501.01" cy="323.6" r="2.2" fill="#087A64"/>
 <text x="501.01" y="311.6" fill="#0B1020" font-size="11.5" font-weight="600" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">60</text>
-<circle cx="605.27" cy="284.72" r="5" fill="#FFFFFF" stroke="#0E9F7E" stroke-width="2"/>
-<circle cx="605.27" cy="284.72" r="2.2" fill="#0E9F7E"/>
+<circle cx="605.27" cy="284.72" r="5" fill="#FFFFFF" stroke="#087A64" stroke-width="2"/>
+<circle cx="605.27" cy="284.72" r="2.2" fill="#087A64"/>
 <text x="605.27" y="272.72" fill="#0B1020" font-size="11.5" font-weight="600" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">132</text>
-<circle cx="733.85" cy="255.02" r="5" fill="#FFFFFF" stroke="#0E9F7E" stroke-width="2"/>
-<circle cx="733.85" cy="255.02" r="2.2" fill="#0E9F7E"/>
+<circle cx="733.85" cy="255.02" r="5" fill="#FFFFFF" stroke="#087A64" stroke-width="2"/>
+<circle cx="733.85" cy="255.02" r="2.2" fill="#087A64"/>
 <text x="733.85" y="243.02" fill="#0B1020" font-size="11.5" font-weight="600" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">187</text>
-<circle cx="852" cy="212.9" r="5" fill="#FFFFFF" stroke="#0E9F7E" stroke-width="2"/>
-<circle cx="852" cy="212.9" r="2.2" fill="#0E9F7E"/>
+<circle cx="852" cy="212.9" r="5" fill="#FFFFFF" stroke="#087A64" stroke-width="2"/>
+<circle cx="852" cy="212.9" r="2.2" fill="#087A64"/>
 <text x="842" y="200.9" fill="#0B1020" font-size="11.5" font-weight="600" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">265</text>
 <text x="76" y="396" fill="#475569" font-size="11.5" font-weight="400" text-anchor="start" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">01 Feb 2026</text>
 <text x="860" y="396" fill="#475569" font-size="11.5" font-weight="400" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">10 Sep 2026</text>
 <path d="M 36 400 L 864 400" stroke="#E2E8F0" stroke-width="1" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="36" y="418" fill="#94A3B8" font-size="12.5" font-weight="400" text-anchor="start">File counts describe regression surface, not coverage, assertions or a claim that every file runs in CI.</text>
+<text x="36" y="418" fill="#59677B" font-size="12.5" font-weight="400" text-anchor="start">File counts describe regression surface, not coverage, assertions or a claim that every file runs in CI.</text>
 </g>
 </svg>
