@@ -4,12 +4,12 @@
 <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
 <rect x="0" y="0" width="900" height="700" rx="18" fill="#0B1020"/>
 <text x="36" y="44" fill="#F8FAFC" font-size="22" font-weight="650" text-anchor="start">Synthetic layout lab · detect, explain, repair</text>
-<text x="36" y="68" fill="#94A3B8" font-size="13" font-weight="400" text-anchor="start">original fictional scheduling fixture · illustrative geometry checks, not private production rules</text>
-<rect x="733.54" y="33" width="130.46" height="22" rx="11" fill="#0E1527" stroke="#243149" stroke-width="1"/>
-<circle cx="744.54" cy="44" r="3" fill="#FB7185"/>
-<text x="752.54" y="48" fill="#94A3B8" font-size="11" font-weight="600" text-anchor="start" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">synthetic fixture</text>
+<text x="36" y="68" fill="#A9B6CB" font-size="13" font-weight="400" text-anchor="start">original fictional scheduling fixture · illustrative geometry checks, not private production rules</text>
+<rect x="710.32" y="33" width="153.68" height="22" rx="11" fill="#0E1527" stroke="#243149" stroke-width="1"/>
+<circle cx="721.32" cy="44" r="3" fill="#FB7185"/>
+<text x="729.32" y="48" fill="#A9B6CB" font-size="11" font-weight="600" text-anchor="start" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">synthetic fixture</text>
 <text x="36" y="118" fill="#F8FAFC" font-size="16" font-weight="700" text-anchor="start">01 · broken composition</text>
-<text x="36" y="140" fill="#94A3B8" font-size="12" font-weight="400" text-anchor="start">synthetic schedule · Aster, Birch, Cedar</text>
+<text x="36" y="140" fill="#A9B6CB" font-size="12" font-weight="400" text-anchor="start">synthetic schedule · Aster, Birch, Cedar</text>
 <circle cx="42" cy="168" r="3.5" fill="#FB7185"/>
 <text x="54" y="172" fill="#FB7185" font-size="12.5" font-weight="400" text-anchor="start">object extends beyond the canvas</text>
 <circle cx="42" cy="190" r="3.5" fill="#FB7185"/>
@@ -32,7 +32,7 @@
 <text x="57" y="201" fill="#F8FAFC" font-size="15" font-weight="600" text-anchor="start">Each task gets one slot</text>
 </g></g>
 <text x="36" y="312" fill="#F8FAFC" font-size="16" font-weight="700" text-anchor="start">02 · gate overlay</text>
-<text x="36" y="334" fill="#94A3B8" font-size="12" font-weight="400" text-anchor="start">synthetic schedule · Aster, Birch, Cedar</text>
+<text x="36" y="334" fill="#A9B6CB" font-size="12" font-weight="400" text-anchor="start">synthetic schedule · Aster, Birch, Cedar</text>
 <circle cx="42" cy="362" r="3.5" fill="#FB7185"/>
 <text x="54" y="366" fill="#FB7185" font-size="12.5" font-weight="400" text-anchor="start">object extends beyond the canvas</text>
 <circle cx="42" cy="384" r="3.5" fill="#FB7185"/>
@@ -57,7 +57,7 @@
 </g></g>
 <text x="456" y="312" fill="#FB7185" font-size="10.5" font-weight="400" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">5 findings</text>
 <text x="36" y="506" fill="#F8FAFC" font-size="16" font-weight="700" text-anchor="start">03 · corrected composition</text>
-<text x="36" y="528" fill="#94A3B8" font-size="12" font-weight="400" text-anchor="start">synthetic schedule · Aster, Birch, Cedar</text>
+<text x="36" y="528" fill="#A9B6CB" font-size="12" font-weight="400" text-anchor="start">synthetic schedule · Aster, Birch, Cedar</text>
 <circle cx="42" cy="556" r="3.5" fill="#5EEBC4"/>
 <text x="54" y="560" fill="#5EEBC4" font-size="12.5" font-weight="400" text-anchor="start">all objects inside the safe zone</text>
 <circle cx="42" cy="578" r="3.5" fill="#5EEBC4"/>
@@ -80,6 +80,6 @@
 </g></g>
 <text x="456" y="506" fill="#5EEBC4" font-size="10.5" font-weight="400" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">0 findings · safe zone</text>
 <path d="M 36 666 L 864 666" stroke="#182338" stroke-width="1" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="36" y="684" fill="#5B6B84" font-size="12.5" font-weight="400" text-anchor="start">Executable fixture: scripts/synthetic_scene.py · all labels and coordinates authored for this demo · geometry checks do not judge subjective quality.</text>
+<text x="36" y="684" fill="#94A3B8" font-size="12.5" font-weight="400" text-anchor="start">Original synthetic fixture · geometry checks only; subjective visual quality still requires human review.</text>
 </g>
 </svg>

@@ -5,8 +5,8 @@
 <rect x="0" y="0" width="900" height="300" rx="18" fill="#0B1020"/>
 <path d="M 30 0 V 300 M 60 0 V 300 M 90 0 V 300 M 120 0 V 300 M 150 0 V 300 M 180 0 V 300 M 210 0 V 300 M 240 0 V 300 M 270 0 V 300 M 300 0 V 300 M 330 0 V 300 M 360 0 V 300 M 390 0 V 300 M 420 0 V 300 M 450 0 V 300 M 480 0 V 300 M 510 0 V 300 M 540 0 V 300 M 570 0 V 300 M 600 0 V 300 M 630 0 V 300 M 660 0 V 300 M 690 0 V 300 M 720 0 V 300 M 750 0 V 300 M 780 0 V 300 M 810 0 V 300 M 840 0 V 300 M 870 0 V 300 M 0 30 H 900 M 0 60 H 900 M 0 90 H 900 M 0 120 H 900 M 0 150 H 900 M 0 180 H 900 M 0 210 H 900 M 0 240 H 900 M 0 270 H 900" stroke="#182338" stroke-width="1" fill="none" stroke-linecap="butt" stroke-linejoin="round" opacity="0.5"/>
 <path d="M 684 34 L 688.8 37.97 L 693.6 42.45 L 698.4 47.75 L 703.2 53.71 L 708 59.77 L 712.8 65.31 L 717.6 69.83 L 722.4 73.08 L 727.2 75.16 L 732 76.44 L 736.8 77.36 L 741.6 78.37 L 746.4 79.72 L 751.2 81.47 L 756 83.48 L 760.8 85.5 L 765.6 87.28 L 770.4 88.63 L 775.2 89.5 L 780 89.96 L 784.8 90.17 L 789.6 90.33 L 794.4 90.58 L 799.2 91.02 L 804 91.62 L 808.8 92.32 L 813.6 93 L 818.4 93.57 L 823.2 93.96 L 828 94.17 L 832.8 94.24 L 837.6 94.24 L 842.4 94.24 L 847.2 94.31 L 852 94.46 L 856.8 94.68 L 861.6 94.93 L 866.4 95.17 L 871.2 95.34 L 876 95.45" stroke="#6DD5FA" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.5"/>
-<path d="M 684 96 L 876 96" stroke="#5B6B84" stroke-width="1" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2 4" opacity="0.7"/>
-<text x="876" y="110" fill="#5B6B84" font-size="10" font-weight="400" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">residual → floor</text>
+<path d="M 684 96 L 876 96" stroke="#94A3B8" stroke-width="1" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2 4" opacity="0.7"/>
+<text x="876" y="110" fill="#94A3B8" font-size="10" font-weight="400" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">residual → floor</text>
 <rect x="40" y="196" width="9" height="9" rx="2" fill="#7C83FF" opacity="0.32"/>
 <rect x="79" y="196" width="9" height="9" rx="2" fill="#7C83FF" opacity="0.18"/>
 <rect x="53" y="209" width="9" height="9" rx="2" fill="#7C83FF" opacity="0.32"/>
@@ -21,32 +21,32 @@
 <rect x="105" y="261" width="9" height="9" rx="2" fill="#7C83FF" opacity="0.32"/>
 <rect x="40" y="222" width="9" height="9" rx="2" fill="#7C83FF" opacity="0.32"/>
 <rect x="79" y="261" width="9" height="9" rx="2" fill="#7C83FF" opacity="0.32"/>
-<text x="36" y="46" fill="#94A3B8" font-size="11" font-weight="700" text-anchor="start" letter-spacing="1.6">PRODUCT ENGINEERING · AGENTIC EVALUATION · SCIENTIFIC COMPUTING</text>
+<text x="36" y="46" fill="#A9B6CB" font-size="11" font-weight="700" text-anchor="start" letter-spacing="1.6">PRODUCT ENGINEERING · AGENTIC EVALUATION · SCIENTIFIC COMPUTING</text>
 <text x="36" y="84" fill="#F8FAFC" font-size="24" font-weight="650" text-anchor="start">Build systems whose evidence can be inspected.</text>
-<text x="36" y="108" fill="#94A3B8" font-size="13" font-weight="400" text-anchor="start">Generated work has to survive independent evaluation, deterministic gates and real failure modes.</text>
+<text x="36" y="108" fill="#A9B6CB" font-size="13" font-weight="400" text-anchor="start">Generated work has to survive independent evaluation, deterministic gates and real failure modes.</text>
 <path d="M 200 206 L 740 206" stroke="#243149" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
 <circle cx="200" cy="206" r="14" fill="#111A2E" stroke="#7C83FF" stroke-width="2"/>
 <circle cx="200" cy="206" r="4.5" fill="#7C83FF"/>
 <text x="200" y="182" fill="#F8FAFC" font-size="12.5" font-weight="700" text-anchor="middle" letter-spacing="1.4">BUILD</text>
-<text x="200" y="240" fill="#94A3B8" font-size="11" font-weight="400" text-anchor="middle">explicit intent</text>
+<text x="200" y="240" fill="#A9B6CB" font-size="11" font-weight="400" text-anchor="middle">explicit intent</text>
 <path d="M 320 206 L 348 206" stroke="#5EEBC4" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M 341.86 209.36 L 348 206 L 341.86 202.64" stroke="#5EEBC4" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
 <circle cx="380" cy="206" r="14" fill="#111A2E" stroke="#5EEBC4" stroke-width="2"/>
 <circle cx="380" cy="206" r="4.5" fill="#5EEBC4"/>
 <text x="380" y="182" fill="#F8FAFC" font-size="12.5" font-weight="700" text-anchor="middle" letter-spacing="1.4">VERIFY</text>
-<text x="380" y="240" fill="#94A3B8" font-size="11" font-weight="400" text-anchor="middle">independent checks</text>
+<text x="380" y="240" fill="#A9B6CB" font-size="11" font-weight="400" text-anchor="middle">independent checks</text>
 <path d="M 500 206 L 528 206" stroke="#6DD5FA" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M 521.86 209.36 L 528 206 L 521.86 202.64" stroke="#6DD5FA" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
 <circle cx="560" cy="206" r="14" fill="#111A2E" stroke="#6DD5FA" stroke-width="2"/>
 <circle cx="560" cy="206" r="4.5" fill="#6DD5FA"/>
 <text x="560" y="182" fill="#F8FAFC" font-size="12.5" font-weight="700" text-anchor="middle" letter-spacing="1.4">MEASURE</text>
-<text x="560" y="240" fill="#94A3B8" font-size="11" font-weight="400" text-anchor="middle">persisted evidence</text>
+<text x="560" y="240" fill="#A9B6CB" font-size="11" font-weight="400" text-anchor="middle">persisted evidence</text>
 <path d="M 680 206 L 708 206" stroke="#7C83FF" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M 701.86 209.36 L 708 206 L 701.86 202.64" stroke="#7C83FF" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
 <circle cx="740" cy="206" r="14" fill="#111A2E" stroke="#7C83FF" stroke-width="2"/>
 <circle cx="740" cy="206" r="4.5" fill="#7C83FF"/>
 <text x="740" y="182" fill="#F8FAFC" font-size="12.5" font-weight="700" text-anchor="middle" letter-spacing="1.4">LEARN</text>
-<text x="740" y="240" fill="#94A3B8" font-size="11" font-weight="400" text-anchor="middle">reviewed constraints</text>
+<text x="740" y="240" fill="#A9B6CB" font-size="11" font-weight="400" text-anchor="middle">reviewed constraints</text>
 <path d="M 380 192 C 380 148, 200 148, 200 192" stroke="#FB7185" stroke-width="1.3" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4 4" opacity="0.9"/>
 <text x="290" y="158" fill="#FB7185" font-size="10.5" font-weight="400" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">bounded repair</text>
 <path d="M 740 220 C 740 284, 200 284, 200 220" stroke="#5EEBC4" stroke-width="1.3" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4 4" opacity="0.9"/>

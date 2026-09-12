@@ -6,11 +6,11 @@
 <path d="M 30 0 V 132 M 60 0 V 132 M 90 0 V 132 M 120 0 V 132 M 150 0 V 132 M 180 0 V 132 M 210 0 V 132 M 240 0 V 132 M 270 0 V 132 M 300 0 V 132 M 330 0 V 132 M 360 0 V 132 M 390 0 V 132 M 420 0 V 132 M 450 0 V 132 M 480 0 V 132 M 510 0 V 132 M 540 0 V 132 M 570 0 V 132 M 600 0 V 132 M 630 0 V 132 M 660 0 V 132 M 690 0 V 132 M 720 0 V 132 M 750 0 V 132 M 780 0 V 132 M 810 0 V 132 M 840 0 V 132 M 870 0 V 132 M 0 30 H 900 M 0 60 H 900 M 0 90 H 900 M 0 120 H 900" stroke="#E2E8F0" stroke-width="1" fill="none" stroke-linecap="butt" stroke-linejoin="round" opacity="0.35"/>
 <rect x="0" y="22" width="5" height="88" rx="2" fill="#4F46E5"/>
 <text x="36" y="40" fill="#475569" font-size="11" font-weight="700" text-anchor="start" letter-spacing="1.6">01 · PRODUCTION SYSTEMS</text>
-<rect x="720.78" y="24" width="143.22" height="22" rx="11" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1"/>
-<circle cx="731.78" cy="35" r="3" fill="#4F46E5"/>
-<text x="739.78" y="39" fill="#475569" font-size="11" font-weight="600" text-anchor="start" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">snapshot 2026-09-10</text>
+<rect x="696.24" y="24" width="167.76" height="22" rx="11" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1"/>
+<circle cx="707.24" cy="35" r="3" fill="#4F46E5"/>
+<text x="715.24" y="39" fill="#475569" font-size="11" font-weight="600" text-anchor="start" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">snapshot 2026-09-10</text>
 <text x="36" y="80" fill="#4F46E5" font-size="24" font-weight="700" text-anchor="start">0 → 265 automated test files</text>
 <text x="36" y="106" fill="#475569" font-size="13" font-weight="400" text-anchor="start">5.317 s → 155 ms recorded local startup benchmark</text>
-<text x="864" y="108" fill="#94A3B8" font-size="11.5" font-weight="400" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">open case study →</text>
+<text x="864" y="108" fill="#59677B" font-size="11.5" font-weight="400" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">open case study →</text>
 </g>
 </svg>

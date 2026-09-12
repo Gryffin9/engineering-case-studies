@@ -4,34 +4,34 @@
 <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
 <rect x="0" y="0" width="900" height="392" rx="18" fill="#0B1020"/>
 <text x="36" y="44" fill="#F8FAFC" font-size="22" font-weight="650" text-anchor="start">First calibrate the instrument. Then correct the output.</text>
-<text x="36" y="68" fill="#94A3B8" font-size="13" font-weight="400" text-anchor="start">completed case study · the three counts measure different things; this is not one defect-reduction trend</text>
-<rect x="714.4" y="33" width="149.6" height="22" rx="11" fill="#0E1527" stroke="#243149" stroke-width="1"/>
-<circle cx="725.4" cy="44" r="3" fill="#6DD5FA"/>
-<text x="733.4" y="48" fill="#94A3B8" font-size="11" font-weight="600" text-anchor="start" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">completed case study</text>
+<text x="36" y="68" fill="#A9B6CB" font-size="13" font-weight="400" text-anchor="start">completed case study · the three counts measure different things; this is not one defect-reduction trend</text>
+<rect x="689.2" y="33" width="174.8" height="22" rx="11" fill="#0E1527" stroke="#243149" stroke-width="1"/>
+<circle cx="700.2" cy="44" r="3" fill="#6DD5FA"/>
+<text x="708.2" y="48" fill="#A9B6CB" font-size="11" font-weight="600" text-anchor="start" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">completed case study</text>
 <rect x="36" y="96" width="252" height="140" rx="10" fill="#111A2E" stroke="#243149" stroke-width="1"/>
-<text x="56" y="122" fill="#94A3B8" font-size="11" font-weight="700" text-anchor="start" letter-spacing="1.6">RAW SIGNAL</text>
+<text x="56" y="122" fill="#A9B6CB" font-size="11" font-weight="700" text-anchor="start" letter-spacing="1.6">RAW SIGNAL</text>
 <text x="56" y="178" fill="#F8FAFC" font-size="44" font-weight="700" text-anchor="start">2,486</text>
-<text x="56" y="212" fill="#94A3B8" font-size="13" font-weight="400" text-anchor="start">detector findings</text>
+<text x="56" y="212" fill="#A9B6CB" font-size="13" font-weight="400" text-anchor="start">detector findings</text>
 <rect x="324" y="96" width="252" height="140" rx="10" fill="#111A2E" stroke="#243149" stroke-width="1"/>
-<text x="344" y="122" fill="#94A3B8" font-size="11" font-weight="700" text-anchor="start" letter-spacing="1.6">CALIBRATED SIGNAL</text>
+<text x="344" y="122" fill="#A9B6CB" font-size="11" font-weight="700" text-anchor="start" letter-spacing="1.6">CALIBRATED SIGNAL</text>
 <text x="344" y="178" fill="#7C83FF" font-size="44" font-weight="700" text-anchor="start">40</text>
-<text x="344" y="212" fill="#94A3B8" font-size="13" font-weight="400" text-anchor="start">genuine blocking defects</text>
+<text x="344" y="212" fill="#A9B6CB" font-size="13" font-weight="400" text-anchor="start">genuine blocking defects</text>
 <rect x="612" y="96" width="252" height="140" rx="10" fill="#111A2E" stroke="#243149" stroke-width="1"/>
-<text x="632" y="122" fill="#94A3B8" font-size="11" font-weight="700" text-anchor="start" letter-spacing="1.6">CORRECTED OUTPUT</text>
+<text x="632" y="122" fill="#A9B6CB" font-size="11" font-weight="700" text-anchor="start" letter-spacing="1.6">CORRECTED OUTPUT</text>
 <text x="632" y="178" fill="#5EEBC4" font-size="44" font-weight="700" text-anchor="start">0</text>
-<text x="632" y="212" fill="#94A3B8" font-size="13" font-weight="400" text-anchor="start">blocking findings</text>
-<path d="M 290 166 L 320 166" stroke="#5B6B84" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 313.86 169.36 L 320 166 L 313.86 162.64" stroke="#5B6B84" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 578 166 L 608 166" stroke="#5B6B84" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 601.86 169.36 L 608 166 L 601.86 162.64" stroke="#5B6B84" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="632" y="212" fill="#A9B6CB" font-size="13" font-weight="400" text-anchor="start">blocking findings</text>
+<path d="M 290 166 L 320 166" stroke="#94A3B8" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 313.86 169.36 L 320 166 L 313.86 162.64" stroke="#94A3B8" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 578 166 L 608 166" stroke="#94A3B8" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 601.86 169.36 L 608 166 L 601.86 162.64" stroke="#94A3B8" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M 36 262 L 864 262" stroke="#182338" stroke-width="1" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
 <text x="36" y="290" fill="#7C83FF" font-size="15" font-weight="700" text-anchor="start">1 · detector calibration</text>
-<text x="36" y="312" fill="#94A3B8" font-size="12.5" font-weight="400" text-anchor="start">Registration and gate-policy assumptions were corrected</text>
-<text x="36" y="330" fill="#94A3B8" font-size="12.5" font-weight="400" text-anchor="start">at their source, not weakened to obtain a pass.</text>
+<text x="36" y="312" fill="#A9B6CB" font-size="12.5" font-weight="400" text-anchor="start">Registration and gate-policy assumptions were corrected</text>
+<text x="36" y="330" fill="#A9B6CB" font-size="12.5" font-weight="400" text-anchor="start">at their source, not weakened to obtain a pass.</text>
 <text x="470" y="290" fill="#5EEBC4" font-size="15" font-weight="700" text-anchor="start">2 · content correction</text>
-<text x="470" y="312" fill="#94A3B8" font-size="12.5" font-weight="400" text-anchor="start">The forty trusted, viewer-visible defects were fixed</text>
-<text x="470" y="330" fill="#94A3B8" font-size="12.5" font-weight="400" text-anchor="start">until blocking findings reached zero.</text>
+<text x="470" y="312" fill="#A9B6CB" font-size="12.5" font-weight="400" text-anchor="start">The forty trusted, viewer-visible defects were fixed</text>
+<text x="470" y="330" fill="#A9B6CB" font-size="12.5" font-weight="400" text-anchor="start">until blocking findings reached zero.</text>
 <path d="M 36 360 L 864 360" stroke="#182338" stroke-width="1" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="36" y="378" fill="#5B6B84" font-size="12.5" font-weight="400" text-anchor="start">A green gate is meaningful only after the measurement itself has earned trust.</text>
+<text x="36" y="378" fill="#94A3B8" font-size="12.5" font-weight="400" text-anchor="start">A green gate is meaningful only after the measurement itself has earned trust.</text>
 </g>
 </svg>

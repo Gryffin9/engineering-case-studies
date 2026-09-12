@@ -23,13 +23,13 @@ MONO = "ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
 PALETTES = {
     "dark": dict(
         bg="#0B1020", panel="#111A2E", panel2="#0E1527", edge="#243149", grid="#182338",
-        text="#F8FAFC", muted="#94A3B8", faint="#5B6B84",
+        text="#F8FAFC", muted="#A9B6CB", faint="#94A3B8",
         accent="#7C83FF", mint="#5EEBC4", cyan="#6DD5FA", rose="#FB7185",
     ),
     "light": dict(
         bg="#F8FAFC", panel="#FFFFFF", panel2="#F1F5F9", edge="#CBD5E1", grid="#E2E8F0",
-        text="#0B1020", muted="#475569", faint="#94A3B8",
-        accent="#4F46E5", mint="#0E9F7E", cyan="#0284C7", rose="#E11D48",
+        text="#0B1020", muted="#475569", faint="#59677B",
+        accent="#4F46E5", mint="#087A64", cyan="#036D9E", rose="#E11D48",
     ),
 }
 
@@ -121,7 +121,7 @@ class Canvas:
             self.chip(WIDTH - 36, 33, chip, chip_color, anchor="end")
 
     def chip(self, x, y, label, color="mint", anchor="start", size=11):
-        w = text_width(label, size) + 22
+        w = len(str(label)) * size * 0.64 + 34
         cx = x - w if anchor == "end" else x
         self.rect(cx, y, w, 22, "panel2", stroke="edge", radius=11)
         self.dot(cx + 11, y + 11, 3, color)
@@ -464,7 +464,7 @@ def synthetic(theme):
             status = "0 findings · safe zone" if not found else f"{len(found)} findings"
             s.text(fx - 14, y + 22, status, 10.5, "mint" if not found else "rose", anchor="end", mono=True)
 
-    s.footer(684, "Executable fixture: scripts/synthetic_scene.py · all labels and coordinates authored for this demo · geometry checks do not judge subjective quality.")
+    s.footer(684, "Original synthetic fixture · geometry checks only; subjective visual quality still requires human review.")
     return s.output()
 
 
